@@ -1,0 +1,15 @@
+{
+  "creationDate": "Date de création",
+  "commercialName": "Nom commercial",
+  "address": "Adresse",
+  "sirenNumber": "Numéro SIREN",
+  "siretNumber": "Numéro SIRET",
+  "tvaCode": "Code TVA",
+  "rcsCode": "Code RCS",
+  "category": "Catégorie",
+  "rcsStatus": "Status RCS",
+  "inseeStatus": "Status INSEE",
+  "rcsImmatriculationDate": "Date d'immatriculation RCS",
+  "inseeRegistrationDate": "Date d'enregistrement INSEE",
+  "SocieteComInformationProvider": "Societe.com"
+}
